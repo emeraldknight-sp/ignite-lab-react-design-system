@@ -1,7 +1,7 @@
 import * as CheckboxPrimitive from "@radix-ui/react-checkbox";
 import { Check } from "phosphor-react";
 
-export interface CheckboxProps extends CheckboxPrimitive.CheckboxProps {}
+export type CheckboxProps = CheckboxPrimitive.CheckboxProps
 
 export const Checkbox = (props: CheckboxProps) => {
   return (

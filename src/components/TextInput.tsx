@@ -25,8 +25,7 @@ const TextInputIcon = (props: TextInputIconProps) => {
 
 TextInputIcon.displayName = "TextInput.Icon";
 
-export interface TextInputInputProps
-  extends InputHTMLAttributes<HTMLInputElement> {}
+export type TextInputInputProps = InputHTMLAttributes<HTMLInputElement>
 
 const TextInputInput = (props: TextInputInputProps) => {
   return (
