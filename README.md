@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Vite](https://vitejs.dev/)
 
 Escrito e formatado com:
+
 - [ESLint](https://eslint.org/docs/latest/user-guide/configuring/)
 - [Prettier](https://prettier.io/)
 
